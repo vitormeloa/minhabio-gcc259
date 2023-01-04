@@ -1,7 +1,7 @@
 
 # Vitor Melo
 
-  
+<img src="photo.jpeg" target="_blank">
 
 ## Estudante de Ciência da Computação
 
